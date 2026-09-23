@@ -8,7 +8,7 @@ Computer Engineering student at USN focusing on Cyber Physical Systems
 - **Embedded systems** — Arduino, microcontrollers
 - **Linux** — Bash, Git, SSH
 - **Data** — Databases, Data Analysis
-- **System Design & Modelling – UML, SysML, Object-oriented programming
+- **System Design & Modelling** – UML, SysML, Object-oriented programming
 
 ## Currently
 
@@ -22,7 +22,8 @@ Computer Engineering student at USN focusing on Cyber Physical Systems
 ## Featured projects
 
 ### 🔗 Doubly Linked Circular List
-A C++ implementation of a doubly linked circular list using smart pointers
+A C++ implementation of a doubly linked circular list using smart pointers.
+
 **Technologies:** C++, CMake, Git 
 
 [View project](https://github.com/kevanrc2-oss/Doubly-Linked-Circular-List)
