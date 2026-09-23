@@ -24,6 +24,7 @@ Computer Engineering student at USN focusing on Cyber Physical Systems
 ### 🔗 Doubly Linked Circular List
 A C++ implementation of a doubly linked circular list using smart pointers
 **Technologies:** C++, CMake, Git 
+
 [View project](https://github.com/kevanrc2-oss/Doubly-Linked-Circular-List)
 
 ## Languages
